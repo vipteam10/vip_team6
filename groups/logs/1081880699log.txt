@@ -1,0 +1,54 @@
+[ Sun Sep 18 16:05:42 2016 ]=>  my sudo [230926505] added SuperGroup
+ 
+[ Sun Sep 18 19:05:50 2016 ]=>  my sudo [230926505] added SuperGroup
+ 
+[ Sun Sep 18 19:06:06 2016 ]=>  my sudo [230926505] set SuperGroup to: mute All
+ 
+[ Sun Sep 18 19:06:18 2016 ]=>  my sudo [230926505] unlocked Arabic
+ 
+[ Sun Sep 18 19:06:49 2016 ]=>  my sudo[230926505] set [249555587] as owner by username
+ 
+[ Sun Sep 18 19:07:17 2016 ]=>  my sudo[230926505] set [117912162] as owner by username
+ 
+[ Sun Sep 18 19:07:54 2016 ]=>  my sudo [230926505] unlocked reply
+ 
+[ Sun Sep 18 19:08:10 2016 ]=>  my sudo [230926505] set SuperGroup to: unmute All
+ 
+[ Sun Sep 18 19:08:21 2016 ]=>  my sudo [230926505] promoted @Cc9l9
+ 
+[ Sun Sep 18 19:49:35 2016 ]=>  ╬الہٰنخبٰةŤiQ╬ [249555587] locked fwd
+ 
+[ Sun Sep 18 19:49:49 2016 ]=>  ╬الہٰنخبٰةŤiQ╬ [249555587] locked bots
+ 
+[ Sun Sep 18 19:50:12 2016 ]=>  ╬الہٰنخبٰةŤiQ╬ [249555587] locked spam 
+ 
+[ Sun Sep 18 19:50:17 2016 ]=>  my sudo [230926505] set SuperGroup to: mute Gifs
+ 
+[ Sun Sep 18 19:50:44 2016 ]=>  my sudo [230926505] promoted mod: @@Cc9l9[249555587] by reply
+ 
+[ Sun Sep 18 19:51:07 2016 ]=>  my sudo [230926505] locked fwd
+ 
+[ Sun Sep 18 20:02:21 2016 ]=>  ❞ ↡ԲＢᎥ||ꝒỌⅬᎥСе❝ [117912162] locked spam 
+ 
+[ Sun Sep 18 20:02:43 2016 ]=>  ❞ ↡ԲＢᎥ||ꝒỌⅬᎥСе❝ [117912162] locked fwd
+ 
+[ Sun Sep 18 20:02:51 2016 ]=>  ❞ ↡ԲＢᎥ||ꝒỌⅬᎥСе❝ [117912162] locked link posting 
+ 
+[ Sun Sep 18 20:21:06 2016 ]=>  ❞ ↡ԲＢᎥ||ꝒỌⅬᎥСе❝ [117912162] locked reply
+ 
+[ Sun Sep 18 20:34:27 2016 ]=>  ❞ ↡ԲＢᎥ||ꝒỌⅬᎥСе❝ [117912162] promoted @https://telegram.me/joinchat/BwcyYkB8MHsThdNC9wsuew
+ 
+[ Sun Sep 18 20:34:37 2016 ]=>  ❞ ↡ԲＢᎥ||ꝒỌⅬᎥСе❝ [117912162] promoted mod: @@li_on4[242276763] by reply
+ 
+[ Sun Sep 18 20:35:02 2016 ]=>  ❞ ↡ԲＢᎥ||ꝒỌⅬᎥСе❝ [117912162] promoted @iq_bot4
+ 
+[ Sun Sep 18 22:09:00 2016 ]=>  أآبۅ̶୭  لہينے ᵛ͢ᵎᵖ⌯﴾ 🦁🍷 User [205788196] added [180804323]: added user kicked  (#lockmember)
+ 
+[ Sun Sep 18 22:09:00 2016 ]=>  أآبۅ̶୭لہينےᵛ͢ᵎᵖ⌯﴾🦁🍷 [205788196] added a bot > @mgoody88_bot
+ 
+[ Mon Sep 19 05:26:43 2016 ]=>  ﭐبــٍــُِّ★ــو آڈ۾ 🌝 ╋ٰۗٛۧۙۙﺄلہنخبٰٰهTiQ╋                                                   ⠀⠀ ┋ شّـريـفُـ‏‏ فُيـﮯ زمِـن    گحآُبّ ♩               آ: 😕🖕 User [131951630] added [272531136]: added user kicked  (#lockmember)
+ 
+[ Mon Sep 19 05:32:20 2016 ]=>  ❞ ↡ԲＢᎥ||ꝒỌⅬᎥСе❝ [117912162] unlocked member 
+ 
+[ Mon Sep 19 05:32:44 2016 ]=>  ❞ ↡ԲＢᎥ||ꝒỌⅬᎥСе❝ [117912162] unlocked join
+ 

@@ -1,0 +1,20 @@
+[ Sat Sep 17 17:04:25 2016 ]=>  my sudo [230926505] added SuperGroup
+ 
+[ Sat Sep 17 17:05:30 2016 ]=>  my sudo [230926505] set: [196819795] as owner by reply
+ 
+[ Sat Sep 17 17:06:06 2016 ]=>  my sudo [230926505] set SuperGroup to: mute All
+ 
+[ Sat Sep 17 17:09:08 2016 ]=>  ッ♛  ȷɹɹɹlɹ̤  ♛ [196819795] set SuperGroup to: mute Gifs
+ 
+[ Sat Sep 17 17:09:23 2016 ]=>  ッ♛  ȷɹɹɹlɹ̤  ♛ [196819795] locked fwd
+ 
+[ Sat Sep 17 17:09:54 2016 ]=>  ッ♛  ȷɹɹɹlɹ̤  ♛ [196819795] locked leave
+ 
+[ Sat Sep 17 17:10:11 2016 ]=>  ッ♛  ȷɹɹɹlɹ̤  ♛ [196819795] locked flood 
+ 
+[ Sun Sep 18 06:25:42 2016 ]=>  سمو👈❤👉الأمير @Ther55 [146329802] kicked for #spam
+ 
+[ Sun Sep 18 08:13:54 2016 ]=>  ッ♛  ȷɹɹɹlɹ̤  ♛ [196819795] renamed SuperGroup to: 🔰لستة العظماء الشفافهه 🔰 ܔ+350
+ 
+[ Sun Sep 18 12:20:38 2016 ]=>  ッ♛  ȷɹɹɹlɹ̤  ♛ [196819795] unlocked member 
+ 

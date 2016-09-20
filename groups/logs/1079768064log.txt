@@ -1,0 +1,10 @@
+[ Sat Sep 17 22:44:26 2016 ]=>  my sudo [230926505] added SuperGroup
+ 
+[ Sat Sep 17 22:46:05 2016 ]=>  my sudo [230926505] set: [267257272] as owner by reply
+ 
+[ Sat Sep 17 22:46:18 2016 ]=>  my sudo[230926505] set [267257272] as owner by username
+ 
+[ Sun Sep 18 19:45:39 2016 ]=>  غدرالزمن [237060177] kicked for #spam
+ 
+[ Sun Sep 18 19:49:24 2016 ]=>  😎:حـޢޢـيـޢޢـډۅريـޢޢـ😎💓 [251994020] kicked for #spam
+ 

@@ -1,0 +1,54 @@
+[ Fri Sep 16 23:54:19 2016 ]=>  my sudo [230926505] added SuperGroup
+ 
+[ Fri Sep 16 23:55:22 2016 ]=>  my sudo [230926505] requested SuperGroup bots list
+ 
+[ Fri Sep 16 23:55:29 2016 ]=>  my sudo [230926505] requested SuperGroup users list
+ 
+[ Fri Sep 16 23:58:41 2016 ]=>  my sudo [230926505] requested SuperGroup bots list
+ 
+[ Fri Sep 16 23:58:53 2016 ]=>  my sudo [230926505] added SuperGroup
+ 
+[ Fri Sep 16 23:58:57 2016 ]=>  my sudo [230926505] requested SuperGroup users list
+ 
+[ Fri Sep 16 23:59:13 2016 ]=>  my sudo [230926505] requested SuperGroup Admins list
+ 
+[ Sat Sep 17 00:02:14 2016 ]=>  my sudo[230926505] set [295228878] as owner by username
+ 
+[ Sat Sep 17 00:02:28 2016 ]=>  my sudo [230926505] used /owner
+ 
+[ Sat Sep 17 00:04:35 2016 ]=>  my sudo [230926505] used /owner
+ 
+[ Sat Sep 17 00:06:00 2016 ]=>  my sudo [230926505] used /owner
+ 
+[ Sat Sep 17 00:07:01 2016 ]=>  my sudo [230926505] used /owner
+ 
+[ Sat Sep 17 00:08:23 2016 ]=>  my sudo [230926505] requested Kicked users list
+ 
+[ Sat Sep 17 00:17:37 2016 ]=>  my sudo [230926505] kicked: [219418372]
+ 
+[ Sat Sep 17 00:54:29 2016 ]=>  my sudo[230926505] set [295228878] as owner by username
+ 
+[ Sat Sep 17 01:18:07 2016 ]=>  my sudo [230926505] requested SuperGroup muteslist
+ 
+[ Sat Sep 17 06:02:24 2016 ]=>  my sudo [230926505] set flood to [5]
+ 
+[ Sun Sep 18 18:19:51 2016 ]=>  my sudo [230926505] locked fwd
+ 
+[ Sun Sep 18 19:50:03 2016 ]=>  my sudo [230926505] set SuperGroup to: mute Gifs
+ 
+[ Sun Sep 18 23:07:57 2016 ]=>  mysudo [230926505] kicked user 219418372
+ 
+[ Sun Sep 18 23:07:57 2016 ]=>  my sudo [230926505] kicked: [219418372]
+ 
+[ Mon Sep 19 01:17:44 2016 ]=>  my sudo [230926505] unlocked fwd
+ 
+[ Mon Sep 19 01:17:48 2016 ]=>  my sudo [230926505] locked fwd
+ 
+[ Mon Sep 19 01:20:08 2016 ]=>  my sudo [230926505] unlocked fwd
+ 
+[ Mon Sep 19 01:20:12 2016 ]=>  my sudo [230926505] locked fwd
+ 
+[ Mon Sep 19 01:29:45 2016 ]=>  my sudo [230926505] locked fwd
+ 
+[ Mon Sep 19 02:16:55 2016 ]=>  my sudo [230926505] locked fwd
+ 
